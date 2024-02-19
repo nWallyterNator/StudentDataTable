@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\student.h(21,6): error C2373: 'Student::age': redefinition; different type modifiers
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\student.h(15): message : see declaration of 'Student::age'
+  student.cpp
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\student.h(21,6): error C2373: 'Student::age': redefinition; different type modifiers
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\student.h(15): message : see declaration of 'Student::age'
+  Generating Code...

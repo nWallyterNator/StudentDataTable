@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\main.cpp(46,6): warning C4101: 'i': unreferenced local variable
+  roster.cpp
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\roster.cpp(45,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\roster.cpp(52,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\roster.cpp(59,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\roster.cpp(67,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\roster.cpp(75,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\roster.cpp(82,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\roster.cpp(87,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\roster.cpp(92,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\roster.cpp(100,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nic\Desktop\Student Data Table\Student Data Table\roster.cpp(134,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  Student Data Table.vcxproj -> C:\Users\Nic\Desktop\Student Data Table\x64\Debug\Student Data Table.exe

@@ -1,0 +1,3 @@
+﻿  roster.cpp
+C:\Users\Nic\Desktop\StudentClassRoster\StudentClassRoster\roster.cpp(61,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  StudentClassRoster.vcxproj -> C:\Users\Nic\Desktop\StudentClassRoster\Debug\StudentClassRoster.exe
